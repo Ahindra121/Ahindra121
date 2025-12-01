@@ -1,5 +1,6 @@
 - 👋 Hello
 - 👀 Tôi là Cao Hoàng Phúc
+- Tôi là sinh viên năm 2 của Trường Đại học Công Nghệ Thông Tin, Đại học Quốc Gia Hồ Chí Minh
 - 🌱 Hiện nay tôi là sinh viên ngành khoa học máy tính
 - 💞️ Độc thân
 - 📫 Nếu bạn muốn liên hệ tôi có thể liên hệ: (mail: caophuc1412@gmail.com)
